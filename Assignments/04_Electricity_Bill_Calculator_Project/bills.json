@@ -1,0 +1,13 @@
+[
+    {
+        "customer_id": 8967453267,
+        "customer_name": "Vidya Yadav",
+        "units": 176.0,
+        "energy_charge": 680.0,
+        "fixed_charge": 50.0,
+        "surcharge": 0.0,
+        "tax": 36.5,
+        "total": 766.5,
+        "generated_at": "11-09-2026 01:16:40 PM"
+    }
+]

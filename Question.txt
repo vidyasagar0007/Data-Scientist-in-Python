@@ -1,0 +1,11 @@
+Education Dataset – Question List:-
+Which district has the highest and lowest number of schools?
+Which district has the highest total student enrollment?
+Compare boys and girls across districts. Which district has the largest gender difference?
+Which district has the highest Class X pass percentage?
+Which district has the highest Class XII pass percentage?
+Compare Class X and Class XII pass percentages across districts.
+Does the number of schools appear to be related to Class X pass percentage?
+Does total student enrollment appear to be related to Class X pass percentage?
+Calculate students per school. Which district has the highest value, and does it appear to be related to academic performance?
+Based on at least three visualizations, identify three important observations about the education system represented by this dataset.
